@@ -167,3 +167,17 @@ img {
     width: 100%;
   }
 }
+
+@media screen and (min-width: 768px) and (max-width: 1160px) {
+  .lessons .container {
+    width: 100%;
+  }
+
+  .steps .container {
+    width: 100%;
+  }
+
+  .why-us .container {
+    width: 100%;
+  }
+}
